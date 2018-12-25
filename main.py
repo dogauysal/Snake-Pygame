@@ -7,8 +7,6 @@ from classes.Food import Food
 from classes.Snake import Snake
 from classes.Button import Button
 
-#Doğa
-
 pygame.init()
 
 screen = pygame.display.set_mode((gv.SCREEN_WIDTH,gv.SCREEN_HEIGHT))
