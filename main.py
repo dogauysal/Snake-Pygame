@@ -7,6 +7,7 @@ from classes.Food import Food
 from classes.Snake import Snake
 from classes.Button import Button
 
+#Doğa
 
 pygame.init()
 
